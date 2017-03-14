@@ -2,7 +2,6 @@ import { Directive, Input, ElementRef, Renderer } from '@angular/core';
 import { DomController } from 'ionic-angular';
 
 
-
 @Directive({
   selector: '[drag]',
   host: {
